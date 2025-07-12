@@ -244,3 +244,27 @@ button {
     text-align: justify;
     padding: 0px 190px 0px 0px;
 }
+
+/* hover button */
+.hover-button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.hover-button:hover {background-color: #45a19a}
+.hover-container{
+    background-color: #dadae22d;
+    margin: 50px auto;
+    padding: 40px 50px;
+    max-width: 1140px;
+    border-radius: 24px;
+    height: 40px;
+    text-align: center;
+}
