@@ -52,3 +52,44 @@ a {
     color: #252432;
     margin-top: 50px;
 }
+
+.action-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 116px 159px 116px 141px;
+    max-width: 1140px;
+    gap: 40px;
+}
+
+.left-side {
+    height: 203px;
+    width: 517px;
+    max-width: 1140px;
+    max-height: 328px;
+    margin-bottom: 50px;
+}
+
+.action-button {
+    background-color: #4E47FF;
+    padding: 15px 15px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+p {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 34px;
+}
+
+.right-side img {
+    max-width: 100%;
+    border-radius: 48px;
+    height: 328px;
+    width: 403px;
+}
