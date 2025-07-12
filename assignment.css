@@ -186,3 +186,61 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+/* challenge container */
+.challenge-container {
+    max-width: 1140px;
+    max-height: 342px;
+    width: 1140px;
+    height: 342px;
+    padding: 137px 149px 0px 151px;
+}
+
+.challenge-title {
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.star {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px;
+}
+
+.icon-star {
+    padding: 0px 35px;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.image {
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    height: 243px;
+    padding: 0px 24px 24px 24px;
+}
+
+.icon-image {
+    padding: 12px 24px 30px 24px;
+    border-radius: 50px;
+}
+
+.icon-image1 {
+    padding: 12px 24px 30px 24px;
+    border-radius: 50px;
+}
+
+.icon-image2 {
+    padding: 12px 24px 30px 24px;
+    border-radius: 50px;
+}
+
+.reviewer {
+    font-size: 16px;
+    text-align: justify;
+    padding: 0px 190px 0px 0px;
+}
